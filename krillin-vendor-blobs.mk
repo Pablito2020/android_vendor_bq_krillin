@@ -16,15 +16,29 @@
 
 PRODUCT_COPY_FILES += \
     vendor/bq/krillin/proprietary/bin/6620_launcher:system/bin/6620_launcher \
+    vendor/bq/krillin/proprietary/bin/akmd8963:system/bin/akmd8963 \
+    vendor/bq/krillin/proprietary/bin/akmd8975:system/bin/akmd8975 \
+    vendor/bq/krillin/proprietary/bin/ami304d:system/bin/ami304d \
+    vendor/bq/krillin/proprietary/bin/bmm050d:system/bin/bmm050d \
     vendor/bq/krillin/proprietary/bin/bmc156d:system/bin/bmc156d \
     vendor/bq/krillin/proprietary/bin/ccci_fsd:system/bin/ccci_fsd \
     vendor/bq/krillin/proprietary/bin/ccci_mdinit:system/bin/ccci_mdinit \
     vendor/bq/krillin/proprietary/bin/drvbd:system/bin/drvbd \
+    vendor/bq/krillin/proprietary/bin/geomagneticd:system/bin/geomagneticd \
     vendor/bq/krillin/proprietary/bin/gsm0710muxd:system/bin/gsm0710muxd \
     vendor/bq/krillin/proprietary/bin/lsm303md:system/bin/lsm303md \
+    vendor/bq/krillin/proprietary/bin/magd:system/bin/magd \
+    vendor/bq/krillin/proprietary/bin/mc6420d:system/bin/mc6420d \
+    vendor/bq/krillin/proprietary/bin/memsicd:system/bin/memsicd \
+    vendor/bq/krillin/proprietary/bin/memsicd3416x:system/bin/memsicd3416x \
+    vendor/bq/krillin/proprietary/bin/memsicd35240:system/bin/memsicd35240 \
     vendor/bq/krillin/proprietary/bin/md_ctrl:system/bin/md_ctrl \
     vendor/bq/krillin/proprietary/bin/msensord:system/bin/msensord \
     vendor/bq/krillin/proprietary/bin/mtk_agpsd:system/bin/mtk_agpsd \
+    vendor/bq/krillin/proprietary/bin/msensord:system/bin/msensord \
+    vendor/bq/krillin/proprietary/bin/orientationd:system/bin/orientationd \
+    vendor/bq/krillin/proprietary/bin/s62xd:system/bin/s62xd \
+    vendor/bq/krillin/proprietary/bin/st480d:system/bin/st480d \
     vendor/bq/krillin/proprietary/bin/mtkrild:system/bin/mtkrild \
     vendor/bq/krillin/proprietary/bin/muxreport:system/bin/muxreport \
     vendor/bq/krillin/proprietary/bin/nvram_daemon:system/bin/nvram_daemon \
