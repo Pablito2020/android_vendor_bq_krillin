@@ -74,7 +74,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/krillin/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/bq/krillin/proprietary/lib/hw/gralloc.mt6582.so:system/lib/hw/gralloc.mt6582.so \
     vendor/bq/krillin/proprietary/lib/hw/hwcomposer.mt6582.so:system/lib/hw/hwcomposer.mt6582.so \
-    vendor/bq/krillin/proprietary/lib/hw/lights.default.so:system/lib/hw/lights.default.so \
     vendor/bq/krillin/proprietary/lib/hw/sensors.mt6582.so:system/lib/hw/sensors.mt6582.so \
     vendor/bq/krillin/proprietary/lib/hw/memtrack.mt6582.so:system/lib/hw/memtrack.mt6582.so \
     vendor/bq/krillin/proprietary/lib/hw/radio.fm.mt6582.so:system/lib/hw/radio.fm.mt6582.so \
