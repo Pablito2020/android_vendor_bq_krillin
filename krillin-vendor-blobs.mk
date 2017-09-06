@@ -92,8 +92,6 @@ PRODUCT_COPY_FILES += \
     vendor/bq/krillin/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
     vendor/bq/krillin/proprietary/lib/libaudiodcrflt.so:system/lib/libaudiodcrflt.so \
     vendor/bq/krillin/proprietary/lib/libaudiomtkdcremoval.so:system/lib/libaudiomtkdcremoval.so \
-    vendor/bq/krillin/proprietary/lib/libaudiopolicymanagerdefault.so:system/lib/libaudiopolicymanagerdefault.so \
-    vendor/bq/krillin/proprietary/lib/libaudiopolicymanagersprout.so:system/lib/libaudiopolicymanagersprout.so \
     vendor/bq/krillin/proprietary/lib/libaudiosetting.so:system/lib/libaudiosetting.so \
     vendor/bq/krillin/proprietary/lib/libbessound_hd_mtk.so:system/lib/libbessound_hd_mtk.so \
     vendor/bq/krillin/proprietary/lib/libblisrc.so:system/lib/libblisrc.so \
