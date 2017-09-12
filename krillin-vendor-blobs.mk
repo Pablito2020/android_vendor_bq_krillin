@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/bq/krillin/proprietary/bin/mtk_agpsd:system/bin/mtk_agpsd \
     vendor/bq/krillin/proprietary/bin/msensord:system/bin/msensord \
     vendor/bq/krillin/proprietary/bin/orientationd:system/bin/orientationd \
+    vendor/bq/krillin/proprietary/bin/permission_check:system/bin/permission_check \
     vendor/bq/krillin/proprietary/bin/s62xd:system/bin/s62xd \
     vendor/bq/krillin/proprietary/bin/st480d:system/bin/st480d \
     vendor/bq/krillin/proprietary/bin/mtkrild:system/bin/mtkrild \
