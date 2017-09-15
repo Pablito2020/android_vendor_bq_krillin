@@ -23,11 +23,9 @@ PRODUCT_COPY_FILES += \
     vendor/bq/krillin/proprietary/bin/bmc156d:system/bin/bmc156d \
     vendor/bq/krillin/proprietary/bin/ccci_fsd:system/bin/ccci_fsd \
     vendor/bq/krillin/proprietary/bin/ccci_mdinit:system/bin/ccci_mdinit \
-    vendor/bq/krillin/proprietary/bin/ccci_rpcd:system/bin/ccci_rpcd \
     vendor/bq/krillin/proprietary/bin/drvbd:system/bin/drvbd \
     vendor/bq/krillin/proprietary/bin/geomagneticd:system/bin/geomagneticd \
     vendor/bq/krillin/proprietary/bin/gsm0710muxd:system/bin/gsm0710muxd \
-    vendor/bq/krillin/proprietary/bin/lgpserver:system/bin/lgpserver \
     vendor/bq/krillin/proprietary/bin/lsm303md:system/bin/lsm303md \
     vendor/bq/krillin/proprietary/bin/magd:system/bin/magd \
     vendor/bq/krillin/proprietary/bin/mc6420d:system/bin/mc6420d \
